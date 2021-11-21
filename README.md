@@ -1,2 +1,2 @@
-# cuberotation
+# Cube Rotation
 Cube rotation
